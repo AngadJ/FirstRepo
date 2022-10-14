@@ -8,7 +8,7 @@ body {
       font-family: 'Alegreya', serif;
       text-align: center;
       border-style: solid;
-      border-color: navy;
+      border-color: white;
       border-width: 5px;
   
     }
@@ -16,7 +16,7 @@ body {
     .images {
       border: 10px;
       border-style: solid;
-      border-color: navy;
+      border-color: white;
       margin: 5px;
       height: 400px;
   
@@ -27,7 +27,7 @@ body {
       width: 700px;
       height: 150px;
       border-style: solid;
-      border-color: navy;
+      border-color: white;
       border-width: 5px;
       padding: 10px;
       overflow:scroll;
@@ -35,7 +35,7 @@ body {
     }
     
     :hover {
-      border-color: white;
+      border-color: black;
       border-width: 10px;
       border-radius: 15%;
   
